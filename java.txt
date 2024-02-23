@@ -1,0 +1,4 @@
+instant of jvm
+(physical present of any sftware in RAM)
+in the one jvm instant  run only one class
+but 
