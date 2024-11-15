@@ -12,8 +12,8 @@ class Naturaal {
            sum = sum+i;
             i++;
 
-        }
-         System.out.print("natural no"+ sum);
+        
+         System.out.println("natural no "+ sum);
     }
-    
+}
 }

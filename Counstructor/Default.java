@@ -1,13 +1,13 @@
 class Default {
     
-    int x , y;
-    Default(){
+    int x ; String s;
+   /* Default(){
         x=10;
-        y=20;
-    }
+        s="suu";
+    }*/
     void show(){
        System.out.println(x);
-       System.out.println(y);
+       System.out.println(s);
     }
     public static void main(String[] args) {
         Default d1 = new Default();
